@@ -30,7 +30,7 @@ public class ena extends AppCompatActivity {
             }
         });
     }
-//asdsads
+
     public Button but2;
     public void init1 () {
         but2= (Button) findViewById(R.id.but2);
