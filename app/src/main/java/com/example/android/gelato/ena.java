@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class ena extends AppCompatActivity {
     //private String User="User";
-    private String Pws = "test";
+    //private String Pws = "test";
     //private EditText username = (EditText) findViewById(R.id.username);
    // private EditText password = (EditText) findViewById(R.id.password);
    public Button but1;
