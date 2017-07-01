@@ -21,7 +21,8 @@ public class ena extends AppCompatActivity {
 
                 //if (User.equals(username.toString()) && Pws.equals(password.toString())) {
                     Intent toy = new Intent(ena.this,duo.class);
-                    startActivity(toy);
+                //test
+
 //                }else
 //                {
 //                    new Exception("Wrong Password");
